@@ -1,0 +1,5 @@
+/* Components styles */
+
+@import url("../components/Button/index.css"); 
+@import url("../components/Form/index.css"); 
+@import url("../components/TextField/index.css"); 

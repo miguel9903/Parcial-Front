@@ -1,0 +1,34 @@
+.card {
+  width: 425px;
+  padding: 20px;
+  border: none;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.card__title {
+  font-size: 18px;
+  font-weight: 400;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.card__list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.card__list-item {
+  margin: 5px 0;
+  padding: 10px 20px;
+  border: 1px solid #ccd1d1;
+  border-radius: 8px;
+}
+
+.card__info {
+  display: inline-block;
+  margin-right: 5px;
+  font-weight: bold;
+}
